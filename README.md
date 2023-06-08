@@ -1,4 +1,3 @@
 # snake
 snake game
-
-for start game open index.html
+to start the game open index.html
